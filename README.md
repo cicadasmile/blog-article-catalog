@@ -1,10 +1,10 @@
 ## 文章分类汇总
 
-### 模块01：Linux系统·运维
+### 模块01：Linux·系统·运维
 
 - [······························Linux基础用法](https://github.com/cicadasmile/blog-article-catalog/blob/master/linux-blog-sort/01-linux-base.md)
-- [······························Linux下常用环境搭建](https://github.com/cicadasmile/blog-article-catalog/blob/master/linux-blog-sort/01-linux-base.md)
-- [······························Linux下数据管理](https://github.com/cicadasmile/blog-article-catalog/blob/master/linux-blog-sort/01-linux-base.md)
+- [······························Linux下常用环境搭建](https://github.com/cicadasmile/blog-article-catalog/blob/master/linux-blog-sort/02-linux-soft.md)
+- [······························系统开发环境和工具](https://github.com/cicadasmile/blog-article-catalog/blob/master/linux-blog-sort/03-system-develop.md)
 
 ### 模块02：编程思想基础
 

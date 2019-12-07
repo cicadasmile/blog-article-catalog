@@ -1,10 +1,4 @@
-## Linux系统基础文章汇总
-
-### Linux基础
-
-|序号|文章标题|
-|:---:|:---|
-|01|[Linux系统管理，常用命令分类总结](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247483702&idx=1&sn=9f0d7fc1b1c4d339d8143aa79dd07bcc&chksm=fdf4558eca83dc98b9113d79b23468d5378be4b3931358ca7ffa8b37c477529ffa403dea52e9&token=317931696&lang=zh_CN#rd)|
+## Linux系统环境部署文章汇总
 
 ### 环境安装
 
@@ -23,7 +17,3 @@
 |序号|文章标题|
 |:---:|:---|
 |01|[MySQL数据以全量和增量方式，向ES搜索引擎同步流程](https://mp.weixin.qq.com/s?__biz=MzU4Njg0MzYwNw==&mid=2247484080&idx=1&sn=09f0fe1552157fd5f432f3fa37a67cb8&chksm=fdf45608ca83df1ee236fef6d6a6db3ecb29f52ad8f126f072f403d89372736060e0eb03b0db&token=188659150&lang=zh_CN#rd)|
-
-
-
-
