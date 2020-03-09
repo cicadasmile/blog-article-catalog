@@ -15,7 +15,7 @@
 
 ### 模块03：Java编程 核心基础
 
-- [······························JavaEE基础篇](https://github.com/cicadasmile/blog-article-catalog/blob/master/java-base-sort/02-java-ee-base.md)
+- [······························JavaEE基础篇](https://github.com/cicadasmile/blog-article-catalog/blob/master/java-base-sort/01-java-se-base.md)
 - [······························JavaWeb开发基础](https://github.com/cicadasmile/blog-article-catalog/blob/master/java-base-sort/02-java-ee-base.md)
 
 ### 模块04：MySQL数据库 核心基础
