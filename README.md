@@ -6,7 +6,7 @@
 - [······························Linux下常用环境搭建](https://github.com/cicadasmile/blog-article-catalog/blob/master/linux-blog-sort/02-linux-soft.md)
 - [······························系统开发环境和工具](https://github.com/cicadasmile/blog-article-catalog/blob/master/linux-blog-sort/03-system-develop.md)
 
-### 模块02：编程思想基础
+### 模块02：模式·结构·算法
 
 - [······························Java描述设计原则](https://github.com/cicadasmile/blog-article-catalog/blob/master/program-base/01-design-patterns.md)
 - [······························Java描述设计模式](https://github.com/cicadasmile/blog-article-catalog/blob/master/program-base/01-design-patterns.md)
@@ -15,6 +15,7 @@
 
 ### 模块03：Java编程 核心基础
 
+- [······························JavaEE基础篇](https://github.com/cicadasmile/blog-article-catalog/blob/master/java-base-sort/02-java-ee-base.md)
 - [······························JavaWeb开发基础](https://github.com/cicadasmile/blog-article-catalog/blob/master/java-base-sort/02-java-ee-base.md)
 
 ### 模块04：MySQL数据库 核心基础
