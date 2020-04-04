@@ -1,34 +1,37 @@
+### Spring+Mvc基础
 
-## 一、分类模块
+|序号|文章标题|
+|:---:|:---|
+|01|[Spring框架基础：核心组件总结，基础环境搭建](https://mp.weixin.qq.com/s/kYetvxOuJhawAyRNxvo-qA)|
+|02|[Spring框架基础：Bean的装配，作用域，生命周期](https://mp.weixin.qq.com/s/AIXt2XjgzRGBZqPAknLNpw)|
+|03|[Spring框架基础：核心思想IOC容器总结，案例演示](https://mp.weixin.qq.com/s/BKNyWorBnoXa5_IhM63XPQ)|
+|04|[Spring框架基础：AOP编程概念，几种实现方式演示](https://mp.weixin.qq.com/s/kWubXXVIZwALbb7dPaJijw)|
+|05|[Spring框架基础：事务管理机制，和实现方式](https://mp.weixin.qq.com/s/VgqBJN09RuFbaxub7mOMBw)|
+|06|[Spring框架基础：Mvc架构模式简介，执行流程详解](https://mp.weixin.qq.com/s/jqv9qSiMDXtsk6ghmfAvxA)|
 
-### 模块目录
+### SpringBoot2基础
 
-|序号| 分类|序号| 分类|
-|:---|:---|:---|:---|
-01 |[Linux 系统.运维]()|02|[数据库.存储.管理]()|
-03 |[模式.结构.算法]()|04|[Java编程 核心模块]()|
-05 |[Spring.Boot.Cloud框架]()|06|[业务.架构.解决方案]()|
+|序号|文章标题|
+|:---:|:---|
+|01|[Boot2基础：环境搭建和RestFul风格接口](https://mp.weixin.qq.com/s/X3xcNs545BUXQ0xMLaoKwQ)|
+|02|[Boot2基础：配置Log4j2，实现不同环境日志打印](https://mp.weixin.qq.com/s/4bOBdPbqQ5yCUjI2PBIy7w)|
+|03|[Boot2基础：配置系统全局异常映射处理](https://mp.weixin.qq.com/s/Js2M_4KrBxigifOB7Ho5zg)|
+|04|[Boot2基础：定时任务和异步任务的使用方式](https://mp.weixin.qq.com/s/7ZnDQCrMl_jSkat91yV_XQ)|
+|05|[Boot2基础：多个拦截器配置和使用场景](https://mp.weixin.qq.com/s/2ZM5qWKVew8fFhXpNybwgg)|
+|06|[Boot2基础：引入JdbcTemplate,和多数据源配置](https://mp.weixin.qq.com/s/CBKLXJzFcW9_QtT8LyVqHw)|
+|07|[Boot2基础：集成Druid连接池,配置监控界面](https://mp.weixin.qq.com/s/eD1BhrzBitcyIBsYI8z2vA)|
+|08|[Boot2基础：集成Redis数据库,实现缓存管理](https://mp.weixin.qq.com/s/1onB_fy4eqgwKDjDIu1FxA)|
+|09|[Boot2基础：集成JPA持久层框架,简化数据库操作](https://mp.weixin.qq.com/s/q4bG2ci4ww-ptaF8mN560Q)|
+|10|[Boot2基础：整合Mybatis框架,集成PageHelper分页](https://mp.weixin.qq.com/s/gnBqg6US6a-eSWDxElNpOQ)|
+|11|[Boot2基础：配置AOP切面编程,解决日志记录业务](https://mp.weixin.qq.com/s/ApFiEm0PRbGb0PzlO93OIA)|
+|12|[Boot2基础：基于转账案例,演示事务管理操作](https://mp.weixin.qq.com/s/CABzsOxYTsk4nzcF07pLVg)|
+|13|[Boot2基础：基于Cache注解模式,管理Redis缓存](https://mp.weixin.qq.com/s/FLTrQGe9sm1d84F5Wlh7TQ)|
+|14|[Boot2基础：基于Yml配置的方式,实现文件上传逻辑](https://mp.weixin.qq.com/s/dWVX3kCQ1HdrYFuGFRu3DQ)|
+|15|[Boot2基础：配置MongoDB数据库,实现增删改查操作](https://mp.weixin.qq.com/s/lZFVV356qmAp5w0UjdUK3g)|
+|16|[Boot2基础：配置Actuator组件,实现系统监控](https://mp.weixin.qq.com/s/wFGN87uD9pPlny_1oYRzQQ)|
+|17|[Boot2基础：自定义启动页,项目打包指定运行环境](https://mp.weixin.qq.com/s/W_ZOtKzzTkzi-DWOfh5rUQ)|
 
-## 二、精选文章
-
-### 1、数据管理
-
-|序号| 标题|
-|:---|:---|
-01 | [数据源管理：主从库动态路由，AOP模式读写分离](https://mp.weixin.qq.com/s/FlRwouBgqEJEDLqffo_z6A)
-
-### 2、微服务架构
-
-|序号| 标题|
-|:---|:---|
-01 | [微服务架构：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s/kxbNXupDxcuISm-vW9nhyA)
-02 | [微服务架构：业务架构设计，系统分层管理](https://mp.weixin.qq.com/s/sx_BSfA5zMJ9FaPAApS3Aw)
-03 | [微服务架构：数据库选型简介，业务数据规划设计](https://mp.weixin.qq.com/s/hdS2IB0kx-ehBsEWed75xg)
-04 | [微服务架构：中间件集成，公共服务封装](https://mp.weixin.qq.com/s/5yR5czRHu4EARw5MvnyxcQ)
-05 | [微服务架构：SpringCloud 基础组件应用设计](https://mp.weixin.qq.com/s/ddyXWTtN2zMnWJZ-T8H8_w)
-06 | [微服务架构：通过业务、应用、技术、存储，聊聊架构](https://mp.weixin.qq.com/s/mzOK_JOb_i_G1cqy0YAvYw)
-
-### 3、SpringBoot整合中间件
+### SpringBoot2整合中间件
 
 |序号|文章标题|
 |:---:|:---|
@@ -55,7 +58,7 @@
 |20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|
 
 
-### 4、微服务组件和应用
+### SpringCloud组件和应用
 
 |序号|文章标题|
 |:---:|:---|
@@ -72,18 +75,13 @@
 |11|[微服务应用：分库分表模式下，数据库扩容方案](https://mp.weixin.qq.com/s/yCRwHGUd7xzQeEhoXFeO-w)|
 |12|[微服务应用：Shard-Jdbc分库分表，扩容方案实现](https://mp.weixin.qq.com/s/QHF4qFP0JUhmievlj3FQPQ)|
 
-## 三、关于作者
-【<b>公众号：知了一笑</b>】    【<b><a href="https://www.zhihu.com/people/cicadasmile/columns">知乎专栏</a></b>】<br/>
-<img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
+### 微服务架构实战
 
-## 四、推荐项目
-
-|序号|项目名称|GitHub地址|GitEE地址|推荐指数|
-|:---|:---|:---|:---|:---|
-|01|Java描述设计模式,算法,数据结构|[GitHub·点这里](https://github.com/cicadasmile/model-arithmetic-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/model-arithmetic-parent)|☆☆☆☆☆|
-|02|Java基础、并发、面向对象、Web开发|[GitHub·点这里](https://github.com/cicadasmile/java-base-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/java-base-parent)|☆☆☆☆|
-|03|SpringCloud微服务基础组件案例详解|[GitHub·点这里](https://github.com/cicadasmile/spring-cloud-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-cloud-base)|☆☆☆|
-|04|SpringCloud微服务架构实战综合案例|[GitHub·点这里](https://github.com/cicadasmile/husky-spring-cloud)|[GitEE·点这里](https://gitee.com/cicadasmile/husky-spring-cloud)|☆☆☆☆☆|
-|05|SpringBoot框架基础应用入门到进阶|[GitHub·点这里](https://github.com/cicadasmile/spring-boot-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)|☆☆☆☆|
-|06|SpringBoot框架整合开发常用中间件|[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)|☆☆☆☆☆|
-|07|数据管理、分布式、架构设计基础案例|[GitHub·点这里](https://github.com/cicadasmile/data-manage-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/data-manage-parent)|☆☆☆☆☆|
+|序号| 标题|
+|:---|:---|
+01 | [微服务架构：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s/kxbNXupDxcuISm-vW9nhyA)
+02 | [微服务架构：业务架构设计，系统分层管理](https://mp.weixin.qq.com/s/sx_BSfA5zMJ9FaPAApS3Aw)
+03 | [微服务架构：数据库选型简介，业务数据规划设计](https://mp.weixin.qq.com/s/hdS2IB0kx-ehBsEWed75xg)
+04 | [微服务架构：中间件集成，公共服务封装](https://mp.weixin.qq.com/s/5yR5czRHu4EARw5MvnyxcQ)
+05 | [微服务架构：SpringCloud 基础组件应用设计](https://mp.weixin.qq.com/s/ddyXWTtN2zMnWJZ-T8H8_w)
+06 | [微服务架构：通过业务、应用、技术、存储，聊聊架构](https://mp.weixin.qq.com/s/mzOK_JOb_i_G1cqy0YAvYw)
