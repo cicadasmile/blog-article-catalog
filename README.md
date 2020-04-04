@@ -54,7 +54,6 @@
 |19|[Boot2 整合 Kafka组件，应用案例和流程详解](https://mp.weixin.qq.com/s/XP2LhioxBGk7z_vW1XN2nQ)|
 |20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|
 
-
 ### 4、微服务组件和应用
 
 |序号|文章标题|
