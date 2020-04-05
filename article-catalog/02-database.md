@@ -10,3 +10,9 @@
 |05|[MySQL基础：逻辑架构图解和InnoDB存储引擎详解](https://mp.weixin.qq.com/s/I0B8I4LOGbG-caGIc6NwLQ)|
 |06|[MySQL基础：事务管理，锁机制案例详解](https://mp.weixin.qq.com/s/eja7F25A4ubBNre282u-jg)|
 |07|[MySQL基础：用户和权限管理，日志体系简介](https://mp.weixin.qq.com/s/6qz0WQ-MHzk37SMf6fwDUQ)|
+
+### MySQL进阶篇
+
+|序号|文章标题|
+|:---:|:---|
+|01|[MySQL进阶：基于多个维度，分析服务器性能](https://mp.weixin.qq.com/s/tgI5W5vZYtFG8OBDWfEkNw)|
