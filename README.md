@@ -20,7 +20,9 @@
 |A03 | [数据源管理：动态权限校验，表结构和数据迁移流程](https://mp.weixin.qq.com/s/Acrff9vopDj67jH17f9FUg)|
 |A04 | [数据源管理：关系型分库分表，列式库分布式计算](https://mp.weixin.qq.com/s/Ej39uHHgJIeyDmxDVJGvMQ)|
 |A05 | [数据源管理：PostGreSQL环境整合，JSON类型应用](https://mp.weixin.qq.com/s/GqFJCoWiEtgG-LXY3Cb54w)|
+|A06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 |C01 | [架构基础：单服务.集群.分布式，基本区别和联系](https://mp.weixin.qq.com/s/TPbbo1EABJsDCcjL7n9wmQ)|
+|C02 | [架构设计：分布式业务系统中，全局ID生成策略](https://mp.weixin.qq.com/s/1TKAwr99rKEHSxqXFixEhQ)|
 
 ### 2、微服务架构
 
