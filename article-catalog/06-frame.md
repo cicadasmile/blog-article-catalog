@@ -7,6 +7,7 @@
 | 03 | [数据源管理：动态权限校验，表结构和数据迁移流程](https://mp.weixin.qq.com/s/Acrff9vopDj67jH17f9FUg)|
 | 04 | [数据源管理：关系型分库分表，列式库分布式计算](https://mp.weixin.qq.com/s/Ej39uHHgJIeyDmxDVJGvMQ)|
 | 05 | [数据源管理：PostGreSQL环境整合，JSON类型应用](https://mp.weixin.qq.com/s/GqFJCoWiEtgG-LXY3Cb54w)|
+| 06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 
 ### 系统架构
 
