@@ -23,6 +23,7 @@
 |A06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 |C01 | [架构基础：单服务.集群.分布式，基本区别和联系](https://mp.weixin.qq.com/s/TPbbo1EABJsDCcjL7n9wmQ)|
 |C02 | [架构设计：分布式业务系统中，全局ID生成策略](https://mp.weixin.qq.com/s/1TKAwr99rKEHSxqXFixEhQ)|
+|C03 | [架构设计：分布式系统调度，Zookeeper集群化管理](https://mp.weixin.qq.com/s/Yr4A95poVjlFsQ-Q0dF7hA)|
 
 ### 2、微服务架构
 
