@@ -1,4 +1,4 @@
-### 数据管理
+### 1、数据管理
 
 |序号| 标题|
 |:---|:---|
@@ -9,8 +9,9 @@
 | 05 | [数据源管理：PostGreSQL环境整合，JSON类型应用](https://mp.weixin.qq.com/s/GqFJCoWiEtgG-LXY3Cb54w)|
 | 06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 
-### 系统架构
+### 3、系统架构
 
 |序号| 标题|
 |:---|:---|
-01 | [架构基础：单服务.集群.分布式，基本区别和联系](https://mp.weixin.qq.com/s/TPbbo1EABJsDCcjL7n9wmQ)|
+|01 | [架构基础：单服务.集群.分布式，基本区别和联系](https://mp.weixin.qq.com/s/TPbbo1EABJsDCcjL7n9wmQ)|
+|02 | [架构设计：分布式业务系统中，全局ID生成策略](https://mp.weixin.qq.com/s/1TKAwr99rKEHSxqXFixEhQ)|
