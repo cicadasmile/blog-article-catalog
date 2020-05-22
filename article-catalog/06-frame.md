@@ -8,6 +8,7 @@
 | 04 | [数据源管理：关系型分库分表，列式库分布式计算](https://mp.weixin.qq.com/s/Ej39uHHgJIeyDmxDVJGvMQ)|
 | 05 | [数据源管理：PostGreSQL环境整合，JSON类型应用](https://mp.weixin.qq.com/s/GqFJCoWiEtgG-LXY3Cb54w)|
 | 06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
+| 07 | [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
 
 ### 3、系统架构
 
