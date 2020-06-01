@@ -10,6 +10,12 @@
 | 06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 | 07 | [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
 
+### 2、数据分析
+
+|序号| 标题|
+|:---|:---|
+|01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
+
 ### 3、系统架构
 
 |序号| 标题|
