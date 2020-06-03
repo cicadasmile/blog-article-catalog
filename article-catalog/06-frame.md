@@ -15,6 +15,7 @@
 |序号| 标题|
 |:---|:---|
 |01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
+|02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
 
 ### 3、系统架构
 
