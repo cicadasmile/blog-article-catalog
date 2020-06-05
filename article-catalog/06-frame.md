@@ -21,8 +21,8 @@
 
 |序号| 标题|
 |:---|:---|
-|01 | [架构设计：单服务.集群.分布式，基本区别和联系](https://mp.weixin.qq.com/s/NGxI3rC-6mWMDnrClaOR3Q)|
-|02 | [架构设计：分布式业务系统中，全局ID生成策略](https://mp.weixin.qq.com/s/1TKAwr99rKEHSxqXFixEhQ)|
-|03 | [架构设计：分布式系统调度，Zookeeper集群化管理](https://mp.weixin.qq.com/s/Yr4A95poVjlFsQ-Q0dF7hA)|
-|04 | [架构设计：接口幂等性原则，防重复提交Token管理](https://mp.weixin.qq.com/s/o9sxN6GwxdNYTKZvRexwjg)|
-|05 | [架构设计：缓存管理模式，监控和内存回收策略](https://mp.weixin.qq.com/s/jBu-OZ69DbXfmdIf5VC7kQ)|
+|00 | [架构设计：单服务.集群.分布式，基本区别和联系](https://mp.weixin.qq.com/s/NGxI3rC-6mWMDnrClaOR3Q)|
+|01 | [架构设计：分布式业务系统中，全局ID生成策略](https://mp.weixin.qq.com/s/1TKAwr99rKEHSxqXFixEhQ)|
+|02 | [架构设计：分布式系统调度，Zookeeper集群化管理](https://mp.weixin.qq.com/s/Yr4A95poVjlFsQ-Q0dF7hA)|
+|03 | [架构设计：接口幂等性原则，防重复提交Token管理](https://mp.weixin.qq.com/s/o9sxN6GwxdNYTKZvRexwjg)|
+|04 | [架构设计：缓存管理模式，监控和内存回收策略](https://mp.weixin.qq.com/s/jBu-OZ69DbXfmdIf5VC7kQ)|
