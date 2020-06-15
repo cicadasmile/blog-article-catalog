@@ -54,6 +54,7 @@
 |04 | [微服务架构：中间件集成，公共服务封装](https://mp.weixin.qq.com/s/5yR5czRHu4EARw5MvnyxcQ)|
 |05 | [微服务架构：SpringCloud 基础组件应用设计](https://mp.weixin.qq.com/s/ddyXWTtN2zMnWJZ-T8H8_w)|
 |06 | [微服务架构：通过业务、应用、技术、存储，聊聊架构](https://mp.weixin.qq.com/s/mzOK_JOb_i_G1cqy0YAvYw)|
+|07 | [微服务技术栈：常见注册中心组件，对比分析](https://mp.weixin.qq.com/s/yBrIZFXe6q7tfRrJC_FUQA)|
 
 ### 3、SpringBoot整合中间件
 
