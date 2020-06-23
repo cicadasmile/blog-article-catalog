@@ -23,6 +23,7 @@
 |03 | [架构设计：接口幂等性原则，防重复提交Token管理](https://mp.weixin.qq.com/s/o9sxN6GwxdNYTKZvRexwjg)|
 |04 | [架构设计：缓存管理模式，监控和内存回收策略](https://mp.weixin.qq.com/s/jBu-OZ69DbXfmdIf5VC7kQ)|
 |05 | [架构设计：异步处理流程，多种实现模式详解](https://mp.weixin.qq.com/s/RQm1vPJak0rCGW8dll4oAA)|
+|05 | [架构设计：高并发流量削峰，共享资源加锁机制](https://mp.weixin.qq.com/s/T13aak6us7ZF36qooQ-YPQ)|
 
 ### 数据管理
 
