@@ -104,6 +104,8 @@
 【<b>公众号：知了一笑</b>】    【<b><a href="https://www.zhihu.com/people/cicadasmile/columns">知乎专栏</a></b>】<br/>
 <img width="255px" height="255px" src="https://avatars0.githubusercontent.com/u/50793885?s=460&v=4"/><br/>
 
+<img width="700px" height="255px" src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/master/blog-image/img-gz.jpg"/><br/>
+
 ## 四、推荐项目
 
 |序号|项目名称|GitHub地址|GitEE地址|推荐指数|
