@@ -13,7 +13,7 @@
 
 ### 1、数据和架构设计
 
-### 架构设计
+#### 架构设计
 
 |序号| 标题|
 |:---|:---|
@@ -25,7 +25,7 @@
 |05 | [架构设计：异步处理流程，多种实现模式详解](https://mp.weixin.qq.com/s/RQm1vPJak0rCGW8dll4oAA)|
 |06 | [架构设计：高并发流量削峰，共享资源加锁机制](https://mp.weixin.qq.com/s/T13aak6us7ZF36qooQ-YPQ)|
 
-### 数据管理
+#### 数据管理
 
 |序号| 标题|
 |:---|:---|
@@ -38,7 +38,7 @@
 |07 | [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
 |08 | [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
 
-### 数据分析
+#### 数据分析
 
 |序号| 标题|
 |:---|:---|
