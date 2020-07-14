@@ -56,7 +56,7 @@
 |18|[文件系统(02)：基于Boot2框架，管理Xml和CSV](https://mp.weixin.qq.com/s/tIHykTG0ey1dwnTwzYwuig)|
 |19|[Boot2 整合 Kafka组件，应用案例和流程详解](https://mp.weixin.qq.com/s/XP2LhioxBGk7z_vW1XN2nQ)|
 |20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|
-
+|21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|
 
 ### SpringCloud组件和应用
 
