@@ -10,6 +10,7 @@
 | 06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 | 07 | [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
 | 08 | [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
+| 09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
 
 ### 2、数据分析
 
