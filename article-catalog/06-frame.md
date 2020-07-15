@@ -12,6 +12,7 @@
 | 08 | [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
 | 09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
 
+
 ### 2、数据分析
 
 |序号| 标题|
