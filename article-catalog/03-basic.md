@@ -1,5 +1,5 @@
 
-### 设计模式
+### 1、设计模式
 
 |序号|文章标题|
 |:---:|:---|
@@ -29,7 +29,7 @@
 |23|[Java描述设计模式：访问者模式](https://mp.weixin.qq.com/s/etCs6BSm6ZIHucQdXrvmGQ)|
 |24|[Java描述设计模式：备忘录模式](https://mp.weixin.qq.com/s/TXC1TagrSpCWPjXh2b_kkQ)|
 
-### 数据结构和算法
+### 2、数据结构和算法
 
 |序号|文章标题|
 |:---:|:---|
