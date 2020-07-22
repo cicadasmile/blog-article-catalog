@@ -57,6 +57,7 @@
 |19|[Boot2 整合 Kafka组件，应用案例和流程详解](https://mp.weixin.qq.com/s/XP2LhioxBGk7z_vW1XN2nQ)|
 |20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|
 |21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|
+|22|[Boot2 整合FreeMarker模板，完成页面静态化处理](https://mp.weixin.qq.com/s/HwFT_E7v0ms_jQWP7ztZCA)|
 
 ### SpringCloud组件和应用
 
