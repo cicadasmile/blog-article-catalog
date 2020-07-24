@@ -11,9 +11,9 @@
 
 ## 二、精选文章
 
-### 1、数据和架构设计
+### 数据和架构设计
 
-#### 1.1架构设计
+#### 架构设计
 
 |序号| 标题|
 |:---|:---|
@@ -27,7 +27,7 @@
 |07 | [架构设计：分布式服务，库表拆分模式详解](https://mp.weixin.qq.com/s/EZCIgZ4EWvFKgKlCYej68g)|
 |08 | [架构设计：分布式事务①概念简介和基础理论](https://mp.weixin.qq.com/s/7ppTArAcu_i8ENa-tNo76A)|
 
-#### 1.2数据管理
+#### 数据管理
 
 |序号| 标题|
 |:---|:---|
@@ -41,7 +41,7 @@
 |08 | [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
 |09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
 
-#### 1.3数据分析
+#### 数据分析
 
 |序号| 标题|
 |:---|:---|
