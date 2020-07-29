@@ -88,6 +88,7 @@
 |20|[Boot2 整合 ElasticJob框架，定制化管理流程](https://mp.weixin.qq.com/s/eFKq3zKksbwzHZ3d81HaZw)|
 |21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|
 |22|[Boot2 整合FreeMarker模板，完成页面静态化处理](https://mp.weixin.qq.com/s/HwFT_E7v0ms_jQWP7ztZCA)|
+|23|[Boot2 整合MinIO中间件，实现文件便捷管理](https://mp.weixin.qq.com/s/93aQawYIT2Ce-9CvkHjQrQ)|
 
 ### 4、微服务组件和应用
 
