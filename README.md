@@ -40,6 +40,7 @@
 |07 | [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
 |08 | [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
 |09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
+|10 | [数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
 
 #### 数据分析
 
@@ -89,6 +90,7 @@
 |21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|
 |22|[Boot2 整合FreeMarker模板，完成页面静态化处理](https://mp.weixin.qq.com/s/HwFT_E7v0ms_jQWP7ztZCA)|
 |23|[Boot2 整合MinIO中间件，实现文件便捷管理](https://mp.weixin.qq.com/s/93aQawYIT2Ce-9CvkHjQrQ)|
+|24|[Boot2 整合Ehcache组件，轻量级缓存管理](https://mp.weixin.qq.com/s/4DxEMZURjRyszzCuhI9SGw)|
 
 ### 4、微服务组件和应用
 
