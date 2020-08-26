@@ -90,4 +90,4 @@
 |06 | [微服务架构：通过业务、应用、技术、存储，聊聊架构](https://mp.weixin.qq.com/s/mzOK_JOb_i_G1cqy0YAvYw)|
 |07 | [微服务技术栈：常见注册中心组件，对比分析](https://mp.weixin.qq.com/s/yBrIZFXe6q7tfRrJC_FUQA)|
 |08 | [微服务技术栈：流量整形算法，服务熔断与降级](https://mp.weixin.qq.com/s/ocYnPQl-KQ-QPRHnTki7zg)|
-
+|09 | [微服务技术栈：API网关中心，落地实现方案](https://mp.weixin.qq.com/s/flNZVxrV5bmz1QasPp3NMg)|
