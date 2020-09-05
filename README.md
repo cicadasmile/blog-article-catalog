@@ -26,6 +26,7 @@
 |06 | [架构设计：高并发流量削峰，共享资源加锁机制](https://mp.weixin.qq.com/s/T13aak6us7ZF36qooQ-YPQ)|
 |07 | [架构设计：分布式服务，库表拆分模式详解](https://mp.weixin.qq.com/s/EZCIgZ4EWvFKgKlCYej68g)|
 |08 | [架构设计：分布式事务①概念简介和基础理论](https://mp.weixin.qq.com/s/7ppTArAcu_i8ENa-tNo76A)|
+|09 | [架构设计：基于电商交易流程，图解TCC事务分段提交](https://mp.weixin.qq.com/s/-vevjP5z2BMnrKn-8cYY7Q)|
 
 #### 数据源管理
 
