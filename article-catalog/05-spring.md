@@ -59,6 +59,8 @@
 |21|[Boot2 整合JTA组件，多数据源事务管理](https://mp.weixin.qq.com/s/6zR4JXDnoinzLDUaENWVSA)|
 |22|[Boot2 整合FreeMarker模板，完成页面静态化处理](https://mp.weixin.qq.com/s/HwFT_E7v0ms_jQWP7ztZCA)|
 |23|[Boot2 整合MinIO中间件，实现文件便捷管理](https://mp.weixin.qq.com/s/93aQawYIT2Ce-9CvkHjQrQ)|
+|24|[Boot2 整合Ehcache组件，轻量级缓存管理](https://mp.weixin.qq.com/s/4DxEMZURjRyszzCuhI9SGw)|
+|25|[Boot2 集成日志，复杂业务下的自定义实现](https://mp.weixin.qq.com/s/Cnieu8n-wkTyGbUd0WxG6g)|
 
 ### SpringCloud组件和应用
 
