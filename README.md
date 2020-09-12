@@ -11,9 +11,7 @@
 
 ## 二、精选文章
 
-### 1、架构设计
-
-#### 架构设计
+### 架构设计
 
 |序号| 标题|
 |:---|:---|
@@ -29,7 +27,7 @@
 |10 | [架构设计：基于电商交易流程，图解TCC事务分段提交](https://mp.weixin.qq.com/s/-vevjP5z2BMnrKn-8cYY7Q)|
 |11 | [架构设计：基于消息中间件，图解柔性事务一致性](https://mp.weixin.qq.com/s/T6NVFeHxp1h2OXsjAyh9Eg)|
 
-#### 数据源管理
+### 数据源管理
 
 |序号| 标题|
 |:---|:---|
@@ -44,14 +42,14 @@
 |09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
 |10 | [数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
 
-#### 数据分析
+### 数据分析
 
 |序号| 标题|
 |:---|:---|
 |01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
 |02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
 
-### 2、微服务架构
+### 微服务架构
 
 |序号| 标题|
 |:---|:---|
@@ -65,7 +63,7 @@
 |08 | [微服务技术栈：流量整形算法，服务熔断与降级](https://mp.weixin.qq.com/s/ocYnPQl-KQ-QPRHnTki7zg)|
 |09 | [微服务技术栈：API网关中心，落地实现方案](https://mp.weixin.qq.com/s/flNZVxrV5bmz1QasPp3NMg)|
 
-### 3、SpringBoot整合中间件
+### SpringBoot整合中间件
 
 |序号|文章标题|
 |:---:|:---|
@@ -96,7 +94,7 @@
 |24|[Boot2 整合Ehcache组件，轻量级缓存管理](https://mp.weixin.qq.com/s/4DxEMZURjRyszzCuhI9SGw)|
 |25|[Boot2 集成日志，复杂业务下的自定义实现](https://mp.weixin.qq.com/s/Cnieu8n-wkTyGbUd0WxG6g)|
 
-### 4、微服务组件和应用
+### 微服务组件和应用
 
 |序号|文章标题|
 |:---:|:---|
@@ -114,7 +112,7 @@
 |12|[微服务应用：分库分表模式下，数据库扩容方案](https://mp.weixin.qq.com/s/yCRwHGUd7xzQeEhoXFeO-w)|
 |13|[微服务应用：Shard-Jdbc分库分表，扩容方案实现](https://mp.weixin.qq.com/s/QHF4qFP0JUhmievlj3FQPQ)|
 
-### 5、编程体系整理
+### 编程体系整理
 
 |序号|文章标题|
 |:---:|:---|
