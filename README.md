@@ -26,6 +26,7 @@
 |09 | [架构设计：分布式事务①概念简介和基础理论](https://mp.weixin.qq.com/s/7ppTArAcu_i8ENa-tNo76A)|
 |10 | [架构设计：基于电商交易流程，图解TCC事务分段提交](https://mp.weixin.qq.com/s/-vevjP5z2BMnrKn-8cYY7Q)|
 |11 | [架构设计：基于消息中间件，图解柔性事务一致性](https://mp.weixin.qq.com/s/T6NVFeHxp1h2OXsjAyh9Eg)|
+|12 | [架构设计：基于Seata中间件，微服务模式下事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)|
 
 ### 数据源管理
 
