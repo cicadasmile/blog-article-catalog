@@ -8,8 +8,16 @@
 |01 |[Linux 系统.运维](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/01-linux.md)|02|[数据库.存储.管理](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/02-database.md)|
 |03 |[模式.结构.算法](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/03-basic.md)|04|[Java编程 核心模块](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/04-javabase.md)|
 |05 |[Spring.Boot.Cloud框架](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/05-spring.md)|06|[业务.架构.解决方案](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/06-frame.md)|
+|07 |[编程结构体系整体](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/07-sumup.md)|08|[大数据框架系列](https://github.com/cicadasmile/blog-article-catalog/blob/master/article-catalog/08-bigdata.md)|
 
 ## 二、精选文章
+
+### Hadoop框架
+
+|序号| 标题|
+|:---|:---|
+|01 | [大数据简介，技术体系分类整理](https://mp.weixin.qq.com/s/9myYKdAIvfvqW3W9EEZXxw)|
+|02 | [Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)|
 
 ### 架构设计
 
@@ -145,3 +153,4 @@
 |05|SpringBoot框架基础应用入门到进阶|[GitHub·点这里](https://github.com/cicadasmile/spring-boot-base)|[GitEE·点这里](https://gitee.com/cicadasmile/spring-boot-base)|☆☆☆☆|
 |06|SpringBoot框架整合开发常用中间件|[GitHub·点这里](https://github.com/cicadasmile/middle-ware-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/middle-ware-parent)|☆☆☆☆☆|
 |07|数据管理、分布式、架构设计基础案例|[GitHub·点这里](https://github.com/cicadasmile/data-manage-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/data-manage-parent)|☆☆☆☆☆|
+|08|大数据系列、存储、组件、计算等框架|[GitHub·点这里](https://github.com/cicadasmile/big-data-parent)|[GitEE·点这里](https://gitee.com/cicadasmile/big-data-parent)|☆☆☆☆☆|
