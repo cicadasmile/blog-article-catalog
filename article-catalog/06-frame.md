@@ -1,26 +1,4 @@
-### 1、数据管理
-
-|序号| 标题|
-|:---|:---|
-|01 | [数据源管理：主从库动态路由，AOP模式读写分离](https://mp.weixin.qq.com/s/FlRwouBgqEJEDLqffo_z6A)|
-|02 | [数据源管理：基于JDBC模式，适配和管理动态数据源](https://mp.weixin.qq.com/s/_mOvZp0-LMEvcBpLuI2p7w)|
-|03 | [数据源管理：动态权限校验，表结构和数据迁移流程](https://mp.weixin.qq.com/s/Acrff9vopDj67jH17f9FUg)|
-|04 | [数据源管理：关系型分库分表，列式库分布式计算](https://mp.weixin.qq.com/s/Ej39uHHgJIeyDmxDVJGvMQ)|
-|05 | [数据源管理：PostGreSQL环境整合，JSON类型应用](https://mp.weixin.qq.com/s/GqFJCoWiEtgG-LXY3Cb54w)|
-|06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
-|07 | [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
-|08 | [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
-|09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
-|10 | [数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
-
-### 2、数据分析
-
-|序号| 标题|
-|:---|:---|
-|01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
-|02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
-
-### 3、系统架构
+### 1、架构设计
 
 |序号| 标题|
 |:---|:---|
@@ -36,3 +14,26 @@
 |10 | [架构设计：基于电商交易流程，图解TCC事务分段提交](https://mp.weixin.qq.com/s/-vevjP5z2BMnrKn-8cYY7Q)|
 |11 | [架构设计：基于消息中间件，图解柔性事务一致性](https://mp.weixin.qq.com/s/T6NVFeHxp1h2OXsjAyh9Eg)|
 |12 | [架构设计：基于Seata中间件，微服务模式下事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)|
+|13 | [架构设计：分布式体系下，服务分层监控策略](https://mp.weixin.qq.com/s/A-5385joT9HY_iYOpufJSg)|
+
+### 2、数据管理
+
+|序号| 标题|
+|:---|:---|
+|01 | [数据源管理：主从库动态路由，AOP模式读写分离](https://mp.weixin.qq.com/s/FlRwouBgqEJEDLqffo_z6A)|
+|02 | [数据源管理：基于JDBC模式，适配和管理动态数据源](https://mp.weixin.qq.com/s/_mOvZp0-LMEvcBpLuI2p7w)|
+|03 | [数据源管理：动态权限校验，表结构和数据迁移流程](https://mp.weixin.qq.com/s/Acrff9vopDj67jH17f9FUg)|
+|04 | [数据源管理：关系型分库分表，列式库分布式计算](https://mp.weixin.qq.com/s/Ej39uHHgJIeyDmxDVJGvMQ)|
+|05 | [数据源管理：PostGreSQL环境整合，JSON类型应用](https://mp.weixin.qq.com/s/GqFJCoWiEtgG-LXY3Cb54w)|
+|06 | [数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
+|07 | [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
+|08 | [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
+|09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
+|10 | [数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
+
+### 3、数据分析
+
+|序号| 标题|
+|:---|:---|
+|01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
+|02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
