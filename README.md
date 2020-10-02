@@ -19,6 +19,7 @@
 |01|[大数据简介，技术体系分类整理](https://mp.weixin.qq.com/s/9myYKdAIvfvqW3W9EEZXxw)|
 |02|[Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)|
 |03|[Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)|
+|04|[Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)|
 
 ### 架构设计
 
@@ -131,6 +132,7 @@
 |01|[编程体系结构：Java编程基础](https://mp.weixin.qq.com/s/8ZQdT8Gwyax51tV2yLYbBg)|
 |02|[编程体系结构：Java异常体系](https://mp.weixin.qq.com/s/yHCC-MwFtDda_y817CV2XA)|
 |03|[编程体系结构：Java集合容器](https://mp.weixin.qq.com/s/Bx_vusOPzyvg8EDwoubAOA)|
+|04|[编程体系结构：JavaIO流文件管理](https://mp.weixin.qq.com/s/Bx_vusOPzyvg8EDwoubAOA)|
 
 ## 三、关于作者
 <p align="left">
