@@ -1,4 +1,4 @@
-### 1、架构设计
+### 架构设计
 
 |序号| 标题|
 |:---|:---|
@@ -16,7 +16,7 @@
 |12 | [架构设计：基于Seata中间件，微服务模式下事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)|
 |13 | [架构设计：分布式体系下，服务分层监控策略](https://mp.weixin.qq.com/s/A-5385joT9HY_iYOpufJSg)|
 
-### 2、数据管理
+### 数据管理
 
 |序号| 标题|
 |:---|:---|
@@ -31,7 +31,7 @@
 |09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
 |10 | [数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
 
-### 3、数据分析
+### 数据分析
 
 |序号| 标题|
 |:---|:---|
