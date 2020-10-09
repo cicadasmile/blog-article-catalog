@@ -135,6 +135,7 @@
 |04|[编程体系结构：JavaIO流文件管理](https://mp.weixin.qq.com/s/Bx_vusOPzyvg8EDwoubAOA)|
 |05|[编程体系结构：Java多线程并发](https://mp.weixin.qq.com/s/xCJlBFg9_wOmJz_THBNNeA)|
 |06|[编程体系结构：Java面向对象](https://mp.weixin.qq.com/s/OLmY3t8L4jDL6lg_8jWV2g)|
+|07|[编程体系结构：JavaEE之Web开发](https://mp.weixin.qq.com/s/ImM3juO6OhEkEdOZMH2N-g)|
 
 ## 三、关于作者
 <p align="left">
