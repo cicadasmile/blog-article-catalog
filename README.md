@@ -20,6 +20,8 @@
 |02|[Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)|
 |03|[Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)|
 |04|[Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)|
+|05|[Hadoop框架：HDFS读写机制与API详解](https://mp.weixin.qq.com/s/1IPLcGu-oAbosEuvBSxIfQ)|
+|06|[Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)|
 
 ### 架构设计
 
@@ -136,6 +138,7 @@
 |05|[编程体系结构：Java多线程并发](https://mp.weixin.qq.com/s/xCJlBFg9_wOmJz_THBNNeA)|
 |06|[编程体系结构：Java面向对象](https://mp.weixin.qq.com/s/OLmY3t8L4jDL6lg_8jWV2g)|
 |07|[编程体系结构：JavaEE之Web开发](https://mp.weixin.qq.com/s/ImM3juO6OhEkEdOZMH2N-g)|
+|08|[编程体系结构：Spring.Mvc.Boot框架](https://mp.weixin.qq.com/s/UpRdv4tszb7sTf8VBzOtuw)|
 
 ## 三、关于作者
 
