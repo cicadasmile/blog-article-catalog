@@ -65,6 +65,12 @@
 |01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
 |02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
 
+### 规范与工具
+
+|序号| 标题|
+|:---|:---|
+|01 | [开发工具：Mybatis.Plus.插件三种方式的逆向工程](https://mp.weixin.qq.com/s/IGcSMw3lmcOSTS-8a-AVGw)|
+
 ### 微服务架构
 
 |序号| 标题|
