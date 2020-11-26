@@ -43,6 +43,7 @@
 |12 | [架构设计：基于Seata中间件，微服务模式下事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)|[GitHub](https://github.com/cicadasmile/spring-cloud-base/tree/master/cloud-node11-parent)|
 |13 | [架构设计：分布式体系下，服务分层监控策略](https://mp.weixin.qq.com/s/A-5385joT9HY_iYOpufJSg)|...|
 |14 | [架构设计：分布式结构下，服务部署发布](https://mp.weixin.qq.com/s/NUTzTeg2entXLSEgd2fYVQ)|...|
+|15 | [架构设计：微服务模式下，实现灰度发布模式](https://mp.weixin.qq.com/s/0yrKkeEdRAZFxJLYJmYR3g)|[GitHub](https://github.com/cicadasmile/spring-cloud-base/tree/master/cloud-node12-parent)|
 
 ### 数据源管理
 
