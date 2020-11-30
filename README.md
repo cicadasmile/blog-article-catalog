@@ -24,6 +24,7 @@
 |06|[Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)|
 |07|[Hadoop框架：DataNode工作机制详解](https://mp.weixin.qq.com/s/yx69B87tBcLu64NcLvl8Bg)|
 |08|[Hadoop框架：HDFS高可用环境配置](https://mp.weixin.qq.com/s/so-gUf7TLwMi6Ms_zXI9og)|
+|09|[Hadoop框架：MapReduce基本原理和入门案例](https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ)|
 
 ### 架构设计
 
