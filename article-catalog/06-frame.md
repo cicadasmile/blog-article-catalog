@@ -36,11 +36,11 @@
 
 ### 数据分析
 
-|序号| 标题|
-|:---|:---|
-|01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
-|02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
-|03 | [数据分析：复杂业务场景下，量化评估流程](https://mp.weixin.qq.com/s/5FragJud2yh2LVE_ev-szA)|
+|序号| 标题| 源码 |
+|:---|:---|:---|
+|01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|...|
+|02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|...|
+|03 | [数据分析：复杂业务场景下，量化评估流程](https://mp.weixin.qq.com/s/5FragJud2yh2LVE_ev-szA)|[GitHub](https://github.com/cicadasmile/data-manage-parent/tree/master/heap02-data-analy/case03-assess-biz)|
 
 ### 规范与工具
 
