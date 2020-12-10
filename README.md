@@ -70,6 +70,12 @@
 |02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
 |03 | [数据分析：复杂业务场景下，量化评估流程](https://mp.weixin.qq.com/s/5FragJud2yh2LVE_ev-szA)|
 
+### 数据业务
+
+|序号| 标题|
+|:---|:---|
+|01 | [数据管理流程，基础入门简介](https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ)|
+
 ### 规范与工具
 
 |序号| 标题|
