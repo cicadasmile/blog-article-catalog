@@ -129,6 +129,7 @@
 |23|[Boot2 整合MinIO中间件，实现文件便捷管理](https://mp.weixin.qq.com/s/93aQawYIT2Ce-9CvkHjQrQ)|
 |24|[Boot2 整合Ehcache组件，轻量级缓存管理](https://mp.weixin.qq.com/s/4DxEMZURjRyszzCuhI9SGw)|
 |25|[Boot2 集成日志，复杂业务下的自定义实现](https://mp.weixin.qq.com/s/Cnieu8n-wkTyGbUd0WxG6g)|
+|26|[Boot2 整合OAuth2组件，模拟第三方授权访问](https://mp.weixin.qq.com/s/lNo-hchm1GHabq-9I-OBDw)|
 
 ### 微服务组件和应用
 
