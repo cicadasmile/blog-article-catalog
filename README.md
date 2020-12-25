@@ -63,28 +63,6 @@
 |09 | [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
 |10 | [数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
 
-### 数据分析
-
-|序号| 标题|
-|:---|:---|
-|01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
-|02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
-|03 | [数据分析：复杂业务场景下，量化评估流程](https://mp.weixin.qq.com/s/5FragJud2yh2LVE_ev-szA)|
-
-### 数据洞察业务
-
-|序号| 标题|
-|:---|:---|
-|01 | [数据管理流程，基础入门简介](https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ)|
-|02 | [业务场景下数据采集机制和策略](https://mp.weixin.qq.com/s/VymzX6Xtg23EjJZ-XC3HFw)|
-
-### 规范与工具
-
-|序号| 标题|
-|:---|:---|
-|01 | [开发工具：Mybatis.Plus.插件三种方式的逆向工程](https://mp.weixin.qq.com/s/IGcSMw3lmcOSTS-8a-AVGw)|
-|02 | [编码风格：Mvc模式下SSM环境，代码分层管理](https://mp.weixin.qq.com/s/O4w4ojM-RFqikTW-N2nleQ)|
-
 ### 微服务架构
 
 |序号| 标题|
@@ -149,6 +127,28 @@
 |12|[微服务基础：整合Seata中间件，分布式事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)|
 |13|[微服务应用：分库分表模式下，数据库扩容方案](https://mp.weixin.qq.com/s/yCRwHGUd7xzQeEhoXFeO-w)|
 |14|[微服务应用：Shard-Jdbc分库分表，扩容方案实现](https://mp.weixin.qq.com/s/QHF4qFP0JUhmievlj3FQPQ)|
+
+### 数据分析
+
+|序号| 标题|
+|:---|:---|
+|01 | [数据分析：基于智能标签，精准管理数据](https://mp.weixin.qq.com/s/Tg_AirB-ewWym6MOhRkwjw)|
+|02 | [数据分析：数据可视化图表，BI工具构建逻辑](https://mp.weixin.qq.com/s/W86TbvYD_i9h23ZSNeh1Ag)|
+|03 | [数据分析：复杂业务场景下，量化评估流程](https://mp.weixin.qq.com/s/5FragJud2yh2LVE_ev-szA)|
+
+### 数据洞察业务
+
+|序号| 标题|
+|:---|:---|
+|01 | [数据管理流程，基础入门简介](https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ)|
+|02 | [业务场景下数据采集机制和策略](https://mp.weixin.qq.com/s/VymzX6Xtg23EjJZ-XC3HFw)|
+
+### 规范与工具
+
+|序号| 标题|
+|:---|:---|
+|01 | [开发工具：Mybatis.Plus.插件三种方式的逆向工程](https://mp.weixin.qq.com/s/IGcSMw3lmcOSTS-8a-AVGw)|
+|02 | [编码风格：Mvc模式下SSM环境，代码分层管理](https://mp.weixin.qq.com/s/O4w4ojM-RFqikTW-N2nleQ)|
 
 ### 编程体系整理
 
