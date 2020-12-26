@@ -142,6 +142,7 @@
 |:---|:---|
 |01 | [数据管理流程，基础入门简介](https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ)|
 |02 | [业务场景下数据采集机制和策略](https://mp.weixin.qq.com/s/VymzX6Xtg23EjJZ-XC3HFw)|
+|03 | [数据全景洞察业务概念简介](https://mp.weixin.qq.com/s/tKfWm59NjFQJub_JJ2gshw)|
 
 ### 规范与工具
 
