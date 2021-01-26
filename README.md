@@ -155,6 +155,12 @@
 |06 | [用户画像分析与场景应用](https://mp.weixin.qq.com/s/Hr7Rj3Xr1N4f3Q_XdPyJhg)|
 |07 | [基于业务和平台理解数字营销概念](https://mp.weixin.qq.com/s/imsT-tZItnBM0G9vP5xgAA)|
 
+### 常用中间件
+
+|序号| 标题|
+|:---|:---|
+|01 | [中间件：ES组件RestHighLevelClient用法详解](https://mp.weixin.qq.com/s/rAnyxNq2vXfTgu7L70vXgw)|
+
 ### 规范与工具
 
 |序号| 标题|
