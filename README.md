@@ -25,18 +25,16 @@
 
 ### Hadoop框架
 
-|序号| 标题|
-|:---|:---|
-|01|[大数据简介，技术体系分类整理](https://mp.weixin.qq.com/s/9myYKdAIvfvqW3W9EEZXxw)|
-|02|[Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)|
-|03|[Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)|
-|04|[Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)|
-|05|[Hadoop框架：HDFS读写机制与API详解](https://mp.weixin.qq.com/s/1IPLcGu-oAbosEuvBSxIfQ)|
-|06|[Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)|
-|07|[Hadoop框架：DataNode工作机制详解](https://mp.weixin.qq.com/s/yx69B87tBcLu64NcLvl8Bg)|
-|08|[Hadoop框架：HDFS高可用环境配置](https://mp.weixin.qq.com/s/so-gUf7TLwMi6Ms_zXI9og)|
-|09|[Hadoop框架：MapReduce基本原理和入门案例](https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ)|
-|10|[Hadoop框架：Yarn基本结构和运行原理](https://mp.weixin.qq.com/s/FkckoHVd1p-CoPpPALTBbw)|
+- [大数据简介，技术体系分类整理](https://mp.weixin.qq.com/s/9myYKdAIvfvqW3W9EEZXxw)
+- [Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)
+- [Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)
+- [Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)
+- [Hadoop框架：HDFS读写机制与API详解](https://mp.weixin.qq.com/s/1IPLcGu-oAbosEuvBSxIfQ)
+- [Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)
+- [Hadoop框架：DataNode工作机制详解](https://mp.weixin.qq.com/s/yx69B87tBcLu64NcLvl8Bg)
+- [Hadoop框架：HDFS高可用环境配置](https://mp.weixin.qq.com/s/so-gUf7TLwMi6Ms_zXI9og)
+- [Hadoop框架：MapReduce基本原理和入门案例](https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ)
+- [Hadoop框架：Yarn基本结构和运行原理](https://mp.weixin.qq.com/s/FkckoHVd1p-CoPpPALTBbw)
 
 ### 基础组件系列
 
