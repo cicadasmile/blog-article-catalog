@@ -60,7 +60,7 @@
 - [架构设计：分布式结构下，服务部署发布](https://mp.weixin.qq.com/s/NUTzTeg2entXLSEgd2fYVQ)
 - [架构设计：微服务模式下，实现灰度发布模式](https://mp.weixin.qq.com/s/0yrKkeEdRAZFxJLYJmYR3g)
 - [架构设计：服务自动化部署和管理流程](https://mp.weixin.qq.com/s/kzcqGeZ8paRodFn7NZaf1w)
-- [架构设计：数据服务系统0到1落地实现方案](https://mp.weixin.qq.com/s/Xwn3IdDz4i_caMPICGrlrg)|
+- [架构设计：数据服务系统0到1落地实现方案](https://mp.weixin.qq.com/s/Xwn3IdDz4i_caMPICGrlrg)
 
 ### 数据源管理
 
