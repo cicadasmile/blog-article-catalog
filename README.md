@@ -41,6 +41,7 @@
 
 - [数据仓库组件：Hive环境搭建和基础用法](https://mp.weixin.qq.com/s/FvBLX5e_ZAnCgTgo6ShoQQ)
 - [数据仓库组件：HBase集群环境搭建和应用案例](https://mp.weixin.qq.com/s/LjhBA8_VdVLxEUbcnI0mHQ)
+- [数据采集组件：Flume基础用法和Kafka集成](https://mp.weixin.qq.com/s/5_4EgIK8hzi_CSSjLMdc-g)
 
 ### 架构设计
 
