@@ -82,15 +82,15 @@
 
 |序号| 标题|
 |:---|:---|
-|01 | [微服务架构：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s/kxbNXupDxcuISm-vW9nhyA)|
-|02 | [微服务架构：业务架构设计，系统分层管理](https://mp.weixin.qq.com/s/sx_BSfA5zMJ9FaPAApS3Aw)|
-|03 | [微服务架构：数据库选型简介，业务数据规划设计](https://mp.weixin.qq.com/s/hdS2IB0kx-ehBsEWed75xg)|
-|04 | [微服务架构：中间件集成，公共服务封装](https://mp.weixin.qq.com/s/5yR5czRHu4EARw5MvnyxcQ)|
-|05 | [微服务架构：SpringCloud 基础组件应用设计](https://mp.weixin.qq.com/s/ddyXWTtN2zMnWJZ-T8H8_w)|
-|06 | [微服务架构：通过业务、应用、技术、存储，聊聊架构](https://mp.weixin.qq.com/s/mzOK_JOb_i_G1cqy0YAvYw)|
-|07 | [微服务技术栈：常见注册中心组件，对比分析](https://mp.weixin.qq.com/s/yBrIZFXe6q7tfRrJC_FUQA)|
-|08 | [微服务技术栈：流量整形算法，服务熔断与降级](https://mp.weixin.qq.com/s/ocYnPQl-KQ-QPRHnTki7zg)|
-|09 | [微服务技术栈：API网关中心，落地实现方案](https://mp.weixin.qq.com/s/flNZVxrV5bmz1QasPp3NMg)|
+- [微服务架构：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s/kxbNXupDxcuISm-vW9nhyA)
+- [微服务架构：业务架构设计，系统分层管理](https://mp.weixin.qq.com/s/sx_BSfA5zMJ9FaPAApS3Aw)
+- [微服务架构：数据库选型简介，业务数据规划设计](https://mp.weixin.qq.com/s/hdS2IB0kx-ehBsEWed75xg)
+- [微服务架构：中间件集成，公共服务封装](https://mp.weixin.qq.com/s/5yR5czRHu4EARw5MvnyxcQ)
+- [微服务架构：SpringCloud 基础组件应用设计](https://mp.weixin.qq.com/s/ddyXWTtN2zMnWJZ-T8H8_w)
+- [微服务架构：通过业务、应用、技术、存储，聊聊架构](https://mp.weixin.qq.com/s/mzOK_JOb_i_G1cqy0YAvYw)
+- [微服务技术栈：常见注册中心组件，对比分析](https://mp.weixin.qq.com/s/yBrIZFXe6q7tfRrJC_FUQA)
+- [微服务技术栈：流量整形算法，服务熔断与降级](https://mp.weixin.qq.com/s/ocYnPQl-KQ-QPRHnTki7zg)
+- [微服务技术栈：API网关中心，落地实现方案](https://mp.weixin.qq.com/s/flNZVxrV5bmz1QasPp3NMg)
 
 ### SpringBoot整合中间件
 
