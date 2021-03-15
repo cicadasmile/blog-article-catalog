@@ -78,8 +78,6 @@
 
 ### 微服务架构
 
-|序号| 标题|
-|:---|:---|
 - [微服务架构：项目技术选型简介，架构图解说明](https://mp.weixin.qq.com/s/kxbNXupDxcuISm-vW9nhyA)
 - [微服务架构：业务架构设计，系统分层管理](https://mp.weixin.qq.com/s/sx_BSfA5zMJ9FaPAApS3Aw)
 - [微服务架构：数据库选型简介，业务数据规划设计](https://mp.weixin.qq.com/s/hdS2IB0kx-ehBsEWed75xg)
