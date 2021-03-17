@@ -159,9 +159,7 @@
 
 ### 常用中间件
 
-|序号| 标题|
-|:---|:---|
-|01 | [中间件：ES组件RestHighLevelClient用法详解](https://mp.weixin.qq.com/s/rAnyxNq2vXfTgu7L70vXgw)|
+- [中间件：ES组件RestHighLevelClient用法详解](https://mp.weixin.qq.com/s/rAnyxNq2vXfTgu7L70vXgw)
 
 ### 规范与工具
 
