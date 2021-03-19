@@ -147,15 +147,13 @@
 
 ### 数据洞察业务
 
-|序号| 标题|
-|:---|:---|
-|01 | [数据管理流程，基础入门简介](https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ)|
-|02 | [业务场景下数据采集机制和策略](https://mp.weixin.qq.com/s/VymzX6Xtg23EjJZ-XC3HFw)|
-|03 | [数据全景洞察业务概念简介](https://mp.weixin.qq.com/s/tKfWm59NjFQJub_JJ2gshw)|
-|04 | [数据应用场景之标签管理体系](https://mp.weixin.qq.com/s/rDUOsFUsWYxMj2s0m4oJow)|
-|05 | [标签管理体系之业务应用](https://mp.weixin.qq.com/s/7aEym4XEZiCFzGREtbPXXw)|
-|06 | [用户画像分析与场景应用](https://mp.weixin.qq.com/s/Hr7Rj3Xr1N4f3Q_XdPyJhg)|
-|07 | [基于业务和平台理解数字营销概念](https://mp.weixin.qq.com/s/imsT-tZItnBM0G9vP5xgAA)|
+- [数据管理流程，基础入门简介](https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ)
+- [业务场景下数据采集机制和策略](https://mp.weixin.qq.com/s/VymzX6Xtg23EjJZ-XC3HFw)
+- [数据全景洞察业务概念简介](https://mp.weixin.qq.com/s/tKfWm59NjFQJub_JJ2gshw)
+- [数据应用场景之标签管理体系](https://mp.weixin.qq.com/s/rDUOsFUsWYxMj2s0m4oJow)
+- [标签管理体系之业务应用](https://mp.weixin.qq.com/s/7aEym4XEZiCFzGREtbPXXw)
+- [用户画像分析与场景应用](https://mp.weixin.qq.com/s/Hr7Rj3Xr1N4f3Q_XdPyJhg)
+- [基于业务和平台理解数字营销概念](https://mp.weixin.qq.com/s/imsT-tZItnBM0G9vP5xgAA)
 
 ### 常用中间件
 
