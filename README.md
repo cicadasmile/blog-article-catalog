@@ -45,6 +45,7 @@
 - [数据采集组件：Flume基础用法和Kafka集成](https://mp.weixin.qq.com/s/5_4EgIK8hzi_CSSjLMdc-g)
 - [数据搬运组件：基于Sqoop管理数据导入和导出](https://mp.weixin.qq.com/s/O2vpLnx8vKgIaU0r9PBmjA)
 - [数据调度组件：基于Azkaban协调时序任务执行](https://mp.weixin.qq.com/s/qIY_O0dddvvqal0Ax11WuA)
+- [OLAP分析引擎，基于Druid组件数据统计分析](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)
 
 ### 架构设计
 
