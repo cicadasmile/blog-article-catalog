@@ -1,13 +1,11 @@
 ### Spring+Mvc基础
 
-|序号|文章标题|
-|:---:|:---|
-|01|[Spring框架基础：核心组件总结，基础环境搭建](https://mp.weixin.qq.com/s/kYetvxOuJhawAyRNxvo-qA)|
-|02|[Spring框架基础：Bean的装配，作用域，生命周期](https://mp.weixin.qq.com/s/AIXt2XjgzRGBZqPAknLNpw)|
-|03|[Spring框架基础：核心思想IOC容器总结，案例演示](https://mp.weixin.qq.com/s/BKNyWorBnoXa5_IhM63XPQ)|
-|04|[Spring框架基础：AOP编程概念，几种实现方式演示](https://mp.weixin.qq.com/s/kWubXXVIZwALbb7dPaJijw)|
-|05|[Spring框架基础：事务管理机制，和实现方式](https://mp.weixin.qq.com/s/VgqBJN09RuFbaxub7mOMBw)|
-|06|[Spring框架基础：Mvc架构模式简介，执行流程详解](https://mp.weixin.qq.com/s/jqv9qSiMDXtsk6ghmfAvxA)|
+- [Spring框架基础：核心组件总结，基础环境搭建](https://mp.weixin.qq.com/s/kYetvxOuJhawAyRNxvo-qA)
+- [Spring框架基础：Bean的装配，作用域，生命周期](https://mp.weixin.qq.com/s/AIXt2XjgzRGBZqPAknLNpw)
+- [Spring框架基础：核心思想IOC容器总结，案例演示](https://mp.weixin.qq.com/s/BKNyWorBnoXa5_IhM63XPQ)
+- [Spring框架基础：AOP编程概念，几种实现方式演示](https://mp.weixin.qq.com/s/kWubXXVIZwALbb7dPaJijw)
+- [Spring框架基础：事务管理机制，和实现方式](https://mp.weixin.qq.com/s/VgqBJN09RuFbaxub7mOMBw)
+- [Spring框架基础：Mvc架构模式简介，执行流程详解](https://mp.weixin.qq.com/s/jqv9qSiMDXtsk6ghmfAvxA)
 
 ### SpringBoot2基础
 
