@@ -63,22 +63,20 @@
 
 ### SpringCloud组件和应用
 
-|序号|文章标题|
-|:---:|:---|
-|01|[微服务基础：Eureka组件，管理服务注册发现](https://mp.weixin.qq.com/s/cbEnCOhgo-5wGFX-GAUQtg)|
-|02|[微服务基础：Ribbon和Feign组件，实现请求负载均衡](https://mp.weixin.qq.com/s/yHCC-MwFtDda_y817CV2XA)|
-|03|[微服务基础：Hystrix组件，实现服务熔断](https://mp.weixin.qq.com/s/pDrda8tBbNfReWVQrzal6w)|
-|04|[微服务基础：Turbine组件，实现微服务集群监控](https://mp.weixin.qq.com/s/-PPL5jwe4OdoBq7kQwePKA)|
-|05|[微服务基础：Zuul组件，实现路由网关控制](https://mp.weixin.qq.com/s/A7xiIp9EG62_1y-F23TATg)|
-|06|[微服务基础：Config组件，实现配置统一管理](https://mp.weixin.qq.com/s/_WZ1r0Kas5yMMPfwZ4MRUw)|
-|07|[微服务基础：Zipkin组件，实现请求链路追踪](https://mp.weixin.qq.com/s/p3p3Wi72rJngqMz4FSICBQ)|
-|08|[微服务基础：与Dubbo框架、Boot框架对比分析](https://mp.weixin.qq.com/s/RC8F_D1J75XEv7oR7xdK5Q)|
-|09|[微服务基础：Nacos组件，服务和配置管理](https://mp.weixin.qq.com/s/adwfdDGg9DQleYLECA8raQ)|
-|10|[微服务基础：Sentinel组件，服务限流和降级](https://mp.weixin.qq.com/s/L_Q9PyPKngmCx-c94o0UmA)|
-|11|[微服务基础：基于Nacos组件，整合Dubbo框架](https://mp.weixin.qq.com/s/Z_4i3SP3mRDMOSYBRQFQhQ)|
-|12|[微服务基础：整合Seata中间件，分布式事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)|
-|13|[微服务应用：分库分表模式下，数据库扩容方案](https://mp.weixin.qq.com/s/yCRwHGUd7xzQeEhoXFeO-w)|
-|14|[微服务应用：Shard-Jdbc分库分表，扩容方案实现](https://mp.weixin.qq.com/s/QHF4qFP0JUhmievlj3FQPQ)|
+- [微服务基础：Eureka组件，管理服务注册发现](https://mp.weixin.qq.com/s/cbEnCOhgo-5wGFX-GAUQtg)
+- [微服务基础：Ribbon和Feign组件，实现请求负载均衡](https://mp.weixin.qq.com/s/yHCC-MwFtDda_y817CV2XA)
+- [微服务基础：Hystrix组件，实现服务熔断](https://mp.weixin.qq.com/s/pDrda8tBbNfReWVQrzal6w)
+- [微服务基础：Turbine组件，实现微服务集群监控](https://mp.weixin.qq.com/s/-PPL5jwe4OdoBq7kQwePKA)
+- [微服务基础：Zuul组件，实现路由网关控制](https://mp.weixin.qq.com/s/A7xiIp9EG62_1y-F23TATg)
+- [微服务基础：Config组件，实现配置统一管理](https://mp.weixin.qq.com/s/_WZ1r0Kas5yMMPfwZ4MRUw)
+- [微服务基础：Zipkin组件，实现请求链路追踪](https://mp.weixin.qq.com/s/p3p3Wi72rJngqMz4FSICBQ)
+- [微服务基础：与Dubbo框架、Boot框架对比分析](https://mp.weixin.qq.com/s/RC8F_D1J75XEv7oR7xdK5Q)
+- [微服务基础：Nacos组件，服务和配置管理](https://mp.weixin.qq.com/s/adwfdDGg9DQleYLECA8raQ)
+- [微服务基础：Sentinel组件，服务限流和降级](https://mp.weixin.qq.com/s/L_Q9PyPKngmCx-c94o0UmA)
+- [微服务基础：基于Nacos组件，整合Dubbo框架](https://mp.weixin.qq.com/s/Z_4i3SP3mRDMOSYBRQFQhQ)
+- [微服务基础：整合Seata中间件，分布式事务管理](https://mp.weixin.qq.com/s/NoQaQUDQcdGIXbHwcJZPkw)
+- [微服务应用：分库分表模式下，数据库扩容方案](https://mp.weixin.qq.com/s/yCRwHGUd7xzQeEhoXFeO-w)
+- [微服务应用：Shard-Jdbc分库分表，扩容方案实现](https://mp.weixin.qq.com/s/QHF4qFP0JUhmievlj3FQPQ)
 
 ### 微服务架构实战
 
