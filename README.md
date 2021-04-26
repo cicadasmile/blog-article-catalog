@@ -49,6 +49,7 @@
 - [数据搬运组件：基于Sqoop管理数据导入和导出](https://mp.weixin.qq.com/s/O2vpLnx8vKgIaU0r9PBmjA)
 - [数据调度组件：基于Azkaban协调时序任务执行](https://mp.weixin.qq.com/s/qIY_O0dddvvqal0Ax11WuA)
 - [OLAP分析引擎，基于Druid组件数据统计分析](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)
+- [OLAP分析引擎：基于Presto组件跨数据源分析](https://mp.weixin.qq.com/s/EV1RFJUmeWwF77-BDLexxw)|
 
 ### 架构设计
 
