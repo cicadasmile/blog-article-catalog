@@ -35,14 +35,12 @@
 
 #### 分布式存储系列
 
-|序号| 标题|
-|:---|:---|
-|01|[数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)|
-|02|[数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)|
-|03|[数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
-|04|[数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
-|05|[数据源管理：OLAP分析引擎，Druid数据统计分析组件](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)|
-|06|[数据源管理：OLAP分析引擎，Presto跨数据源分析](https://mp.weixin.qq.com/s/EV1RFJUmeWwF77-BDLexxw)|
+- [数据源管理：OLAP查询引擎，ClickHouse集群化管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)
+- [数据源管理：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)
+- [数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)
+- [数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)
+- [数据源管理：OLAP分析引擎，Druid数据统计分析组件](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)
+- [数据源管理：OLAP分析引擎，Presto跨数据源分析](https://mp.weixin.qq.com/s/EV1RFJUmeWwF77-BDLexxw)
 
 #### 数据搬运组件
 
