@@ -221,7 +221,6 @@
 
 - JavaSE基础
 
-    - [编程体系结构：Java编程基础](https://mp.weixin.qq.com/s/8ZQdT8Gwyax51tV2yLYbBg)
     - [Java基础：基本数据类型，核心点整理](https://mp.weixin.qq.com/s/YwrBptAd2SrWefFIiN86Yw)
     - [Java基础：特殊的String类，和相关扩展API](https://mp.weixin.qq.com/s/HI6yklzR118G2Y-rJzl47g)
     - [Java基础：流程控制语句，和算法应用](https://mp.weixin.qq.com/s/K7VqhbOJ7nMrFtfQgUKY0Q)
@@ -230,15 +229,14 @@
 
 - 多线程并发
 
-    - [编程体系结构：Java多线程并发](https://mp.weixin.qq.com/s/xCJlBFg9_wOmJz_THBNNeA)
-    - [Java并发：线程的创建方式，状态周期管理](https://mp.weixin.qq.com/s/h0zuh364It-fDtQyYdzIwA)
-    - [Java并发：线程核心机制，基础概念扩展](https://mp.weixin.qq.com/s/nU5tbKuAiDf_LDu-8A4Etg)
-    - [Java并发：多线程并发访问，同步控制](https://mp.weixin.qq.com/s/xWhd3vgYPNp-Mm2lJpmFmA)
-    - [Java并发：线程间通信，等待/通知机制](https://mp.weixin.qq.com/s/WWbVjvkEqpddx605me9E-A)
-    - [Java并发：悲观锁和乐观锁机制](https://mp.weixin.qq.com/s/t6NshbuKwULPeLhTIhvmIg)
-    - [Java并发：Lock机制下API用法详解](https://mp.weixin.qq.com/s/F7TC-71kEIpG6VD2eF6NIw)
-    - [Java并发：Fork/Join框架机制详解](https://mp.weixin.qq.com/s/kk5q0mtBawCSa6365t3IWw)
-    - [Java并发：Executor线程池框架简介](https://mp.weixin.qq.com/s/jvOl-bxVC1e4L2O329OIyg)
+    - [并发基础：线程的创建方式，状态周期管理](https://mp.weixin.qq.com/s/h0zuh364It-fDtQyYdzIwA)
+    - [并发基础：线程核心机制，基础概念扩展](https://mp.weixin.qq.com/s/nU5tbKuAiDf_LDu-8A4Etg)
+    - [并发基础：多线程并发访问，同步控制](https://mp.weixin.qq.com/s/xWhd3vgYPNp-Mm2lJpmFmA)
+    - [并发基础：线程间通信，等待/通知机制](https://mp.weixin.qq.com/s/WWbVjvkEqpddx605me9E-A)
+    - [并发基础：悲观锁和乐观锁机制](https://mp.weixin.qq.com/s/t6NshbuKwULPeLhTIhvmIg)
+    - [并发基础：Lock机制下API用法详解](https://mp.weixin.qq.com/s/F7TC-71kEIpG6VD2eF6NIw)
+    - [并发基础：Fork/Join框架机制详解](https://mp.weixin.qq.com/s/kk5q0mtBawCSa6365t3IWw)
+    - [并发基础：Executor线程池框架简介](https://mp.weixin.qq.com/s/jvOl-bxVC1e4L2O329OIyg)
 
 - JavaEE基础
 
