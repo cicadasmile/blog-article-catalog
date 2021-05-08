@@ -21,35 +21,44 @@
 
 ### 微观角度
 
-- 职场
+- 人在职场
+
     - [职场：3天准备5天面试，跳槽完成](https://mp.weixin.qq.com/s/DnjMqgjL5HanXtvu5uNxVQ)
     - [职场：跳槽之后，如何平稳走过试用期](https://mp.weixin.qq.com/s/o8vHWU8_778WtkaZD3AHsg)
     - [职场：工作五年之后，对技术和业务的思考](https://mp.weixin.qq.com/s/CTbEdi0F4-qFoJT05kNlXA)
-- 互联网
+
+- 互联网行业
+
     - [互联网：逻辑上的黑话才是真正的花里胡哨](https://mp.weixin.qq.com/s/cA5WkQmYVpXSCYl06ysNUA)
 
-### Hadoop框架
+### 大数据系列
 
-- [大数据简介，技术体系分类整理](https://mp.weixin.qq.com/s/9myYKdAIvfvqW3W9EEZXxw)
-- [Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)
-- [Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)
-- [Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)
-- [Hadoop框架：HDFS读写机制与API详解](https://mp.weixin.qq.com/s/1IPLcGu-oAbosEuvBSxIfQ)
-- [Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)
-- [Hadoop框架：DataNode工作机制详解](https://mp.weixin.qq.com/s/yx69B87tBcLu64NcLvl8Bg)
-- [Hadoop框架：HDFS高可用环境配置](https://mp.weixin.qq.com/s/so-gUf7TLwMi6Ms_zXI9og)
-- [Hadoop框架：MapReduce基本原理和入门案例](https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ)
-- [Hadoop框架：Yarn基本结构和运行原理](https://mp.weixin.qq.com/s/FkckoHVd1p-CoPpPALTBbw)
+- Hadoop框架
 
-### 基础组件系列
+    - [大数据简介，技术体系分类整理](https://mp.weixin.qq.com/s/9myYKdAIvfvqW3W9EEZXxw)
+    - [Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)
+    - [Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)
+    - [Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)
+    - [Hadoop框架：HDFS读写机制与API详解](https://mp.weixin.qq.com/s/1IPLcGu-oAbosEuvBSxIfQ)
+    - [Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)
+    - [Hadoop框架：DataNode工作机制详解](https://mp.weixin.qq.com/s/yx69B87tBcLu64NcLvl8Bg)
+    - [Hadoop框架：HDFS高可用环境配置](https://mp.weixin.qq.com/s/so-gUf7TLwMi6Ms_zXI9og)
+    - [Hadoop框架：MapReduce基本原理和入门案例](https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ)
+    - [Hadoop框架：Yarn基本结构和运行原理](https://mp.weixin.qq.com/s/FkckoHVd1p-CoPpPALTBbw)
 
-- [数据仓库组件：Hive环境搭建和基础用法](https://mp.weixin.qq.com/s/FvBLX5e_ZAnCgTgo6ShoQQ)
-- [数据仓库组件：HBase集群环境搭建和应用案例](https://mp.weixin.qq.com/s/LjhBA8_VdVLxEUbcnI0mHQ)
-- [数据采集组件：Flume基础用法和Kafka集成](https://mp.weixin.qq.com/s/5_4EgIK8hzi_CSSjLMdc-g)
-- [数据搬运组件：基于Sqoop管理数据导入和导出](https://mp.weixin.qq.com/s/O2vpLnx8vKgIaU0r9PBmjA)
-- [数据调度组件：基于Azkaban协调时序任务执行](https://mp.weixin.qq.com/s/qIY_O0dddvvqal0Ax11WuA)
-- [OLAP分析引擎，基于Druid组件数据统计分析](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)
-- [OLAP分析引擎：基于Presto组件跨数据源分析](https://mp.weixin.qq.com/s/EV1RFJUmeWwF77-BDLexxw)|
+- 基础组件
+
+    - [数据仓库组件：Hive环境搭建和基础用法](https://mp.weixin.qq.com/s/FvBLX5e_ZAnCgTgo6ShoQQ)
+    - [数据仓库组件：HBase集群环境搭建和应用案例](https://mp.weixin.qq.com/s/LjhBA8_VdVLxEUbcnI0mHQ)
+    - [数据采集组件：Flume基础用法和Kafka集成](https://mp.weixin.qq.com/s/5_4EgIK8hzi_CSSjLMdc-g)
+    - [数据搬运组件：基于Sqoop管理数据导入和导出](https://mp.weixin.qq.com/s/O2vpLnx8vKgIaU0r9PBmjA)
+    - [数据调度组件：基于Azkaban协调时序任务执行](https://mp.weixin.qq.com/s/qIY_O0dddvvqal0Ax11WuA)
+
+- OLAP分析引擎
+
+    - [OLAP分析引擎，基于Druid组件数据统计分析](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)
+    - [OLAP分析引擎：基于Presto组件跨数据源分析](https://mp.weixin.qq.com/s/EV1RFJUmeWwF77-BDLexxw)
+    - [OLAP查询引擎：列式库ClickHouse集群管理](https://mp.weixin.qq.com/s/8D9XfWlVUSusoPgsbRFuiw)
 
 ### 架构设计
 
