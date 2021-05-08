@@ -55,6 +55,10 @@
     - [数据调度组件：基于Azkaban协调时序任务执行](https://mp.weixin.qq.com/s/qIY_O0dddvvqal0Ax11WuA)
     - [数据搬运组件：基于DataX同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)
 
+- 实时计算框架
+
+    - [实时计算框架：Spark集群搭建与入门案例](https://mp.weixin.qq.com/s/_Ix5ti_KkK61fk-LuAcYug)
+
 - OLAP分析引擎
 
     - [OLAP分析引擎，基于Druid组件数据统计分析](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)
