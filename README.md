@@ -116,7 +116,8 @@
     - [中间件：Kafka集群环境搭建，消息存储机制详解](https://mp.weixin.qq.com/s/ygVFjtpbk4cNdl3VI7DHpQ)
     - [中间件：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)
     - [中间件：ES组件RestHighLevelClient用法详解](https://mp.weixin.qq.com/s/rAnyxNq2vXfTgu7L70vXgw)
-
+    - [中间件：MySQL全量和增量方式向ES引擎同步数据](https://mp.weixin.qq.com/s/SVS9O5WF38AYbsxQilNO4g)
+    
 - 数据源管理
 
     - [数据源管理：主从库动态路由，AOP模式读写分离](https://mp.weixin.qq.com/s/FlRwouBgqEJEDLqffo_z6A)
@@ -248,17 +249,54 @@
     - [过滤器、监听器、拦截器，应用详解](https://mp.weixin.qq.com/s/CVhLyZ12BbT9kaclSpIrnw)
     - [Servlet整合C3P0数据库连接池](https://mp.weixin.qq.com/s/I-KB6vAEwVMBAVAjEP2RmQ)
 
-### 编程体系整理
+### 编程基础体系
 
-- [编程体系结构：Java编程基础](https://mp.weixin.qq.com/s/8ZQdT8Gwyax51tV2yLYbBg)
-- [编程体系结构：Java异常体系](https://mp.weixin.qq.com/s/yHCC-MwFtDda_y817CV2XA)
-- [编程体系结构：Java集合容器](https://mp.weixin.qq.com/s/Bx_vusOPzyvg8EDwoubAOA)
-- [编程体系结构：JavaIO流文件管理](https://mp.weixin.qq.com/s/EakhE835U-0v9diDRayspw)
-- [编程体系结构：Java多线程并发](https://mp.weixin.qq.com/s/xCJlBFg9_wOmJz_THBNNeA)
-- [编程体系结构：Java面向对象](https://mp.weixin.qq.com/s/OLmY3t8L4jDL6lg_8jWV2g)
-- [编程体系结构：JavaEE之Web开发](https://mp.weixin.qq.com/s/ImM3juO6OhEkEdOZMH2N-g)
-- [编程体系结构：Spring.Mvc.Boot框架](https://mp.weixin.qq.com/s/UpRdv4tszb7sTf8VBzOtuw)
-- [编程体系结构：分布式系统架构](https://mp.weixin.qq.com/s/bc1zDwQ-qazjBvHGaz7cEA)
+- 模块分析
+
+    - [编程体系结构：Java编程基础](https://mp.weixin.qq.com/s/8ZQdT8Gwyax51tV2yLYbBg)
+    - [编程体系结构：Java异常体系](https://mp.weixin.qq.com/s/yHCC-MwFtDda_y817CV2XA)
+    - [编程体系结构：Java集合容器](https://mp.weixin.qq.com/s/Bx_vusOPzyvg8EDwoubAOA)
+    - [编程体系结构：JavaIO流文件管理](https://mp.weixin.qq.com/s/EakhE835U-0v9diDRayspw)
+    - [编程体系结构：Java多线程并发](https://mp.weixin.qq.com/s/xCJlBFg9_wOmJz_THBNNeA)
+    - [编程体系结构：Java面向对象](https://mp.weixin.qq.com/s/OLmY3t8L4jDL6lg_8jWV2g)
+    - [编程体系结构：JavaEE之Web开发](https://mp.weixin.qq.com/s/ImM3juO6OhEkEdOZMH2N-g)
+    - [编程体系结构：Spring.Mvc.Boot框架](https://mp.weixin.qq.com/s/UpRdv4tszb7sTf8VBzOtuw)
+    - [编程体系结构：分布式系统架构](https://mp.weixin.qq.com/s/bc1zDwQ-qazjBvHGaz7cEA)
+
+### 数据库存储
+
+- MySQL基础
+
+    - [MySQL基础：经典实用查询案例，总结整理](https://mp.weixin.qq.com/s/1LHqN2V_NvhL9ky8f8qoZw)
+    - [MySQL基础：从五个维度出发，审视表结构设计](https://mp.weixin.qq.com/s/J_kDdyxKlQyT00e7-Uu0lQ)
+    - [MySQL基础：系统和自定义函数总结，触发器使用详解](https://mp.weixin.qq.com/s/-MsW3f-Vhsmij2nwtgDTvw)
+    - [MySQL基础：存储过程和视图，用法和特性详解](https://mp.weixin.qq.com/s/x8Pm1nH2WwsWFFnOYMo9gw)
+    - [MySQL基础：逻辑架构图解和InnoDB存储引擎详解](https://mp.weixin.qq.com/s/I0B8I4LOGbG-caGIc6NwLQ)
+    - [MySQL基础：事务管理，锁机制案例详解](https://mp.weixin.qq.com/s/eja7F25A4ubBNre282u-jg)
+    - [MySQL基础：用户和权限管理，日志体系简介](https://mp.weixin.qq.com/s/6qz0WQ-MHzk37SMf6fwDUQ)
+
+- MySQL进阶篇
+
+    - [MySQL进阶：基于多个维度，分析服务器性能](https://mp.weixin.qq.com/s/tgI5W5vZYtFG8OBDWfEkNw)
+    - [MySQL进阶：索引体系划分，B-Tree结构说明](https://mp.weixin.qq.com/s/VIFzBvSAangu0qa7k8C6dg)
+    - [MySQL进阶：合理的使用索引结构和查询](https://mp.weixin.qq.com/s/26nMtNk342sbpOdOYNBwcQ)
+
+### Linux系统
+
+- Linux基础使用
+
+    - [Linux系统管理，常用命令分类总结](https://mp.weixin.qq.com/s/U_I0fft_0pspGIuxYKUXxg)
+
+- 常用环境安装
+
+    - [Centos7下安装Jdk8、Tomcat8、MySQL5.7环境](https://mp.weixin.qq.com/s/aVrSCWf4Fa-voiqxWZjcdQ)
+    - [Centos7下搭建Redis单台和Redis集群服务](https://mp.weixin.qq.com/s/-0hM_0TkmemgaBwHnfb5DA)
+    - [Centos7下搭建Rocketmq4.3中间件，配置监控台](https://mp.weixin.qq.com/s/j4YN8ynkiInckZXaNcH6Hg)
+    - [Centos7下搭建ZooKeeper3.4中间件，常用命令总结](https://mp.weixin.qq.com/s/NsWZN5zScFKgBanzSg224g)
+    - [Centos7下搭建ElasticSearch中间件，常用接口演示](https://mp.weixin.qq.com/s/8OJ-KsRmExmcMrTyIdFQjg)
+    - [Centos7下搭建Nginx，FastDFS文件管理中间件](https://mp.weixin.qq.com/s/UpPAPOHzZVBZwvFS_YX6Pw)
+    - [Centos7下搭建ClickHouse列式存储数据库](https://mp.weixin.qq.com/s/DUzOqK2Fnn0ROu0ZMtQNUA)
+    - [Centos7下搭建PostgreSQL关系型数据库](https://mp.weixin.qq.com/s/fz5x1QRPtQC3mFcuw3ELPA)
 
 ## 三、关于作者
 
