@@ -25,7 +25,8 @@
 - 实时计算框架
 
     - [实时计算框架：Spark集群搭建与入门案例](https://mp.weixin.qq.com/s/_Ix5ti_KkK61fk-LuAcYug)
-
+    - [实时计算框架：Flink集群搭建与运行机制](https://mp.weixin.qq.com/s/ze97u_hoZY0CfZwrkwDkjw)
+    
 - OLAP分析引擎
 
     - [OLAP分析引擎，基于Druid组件数据统计分析](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)
