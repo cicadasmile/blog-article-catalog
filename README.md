@@ -231,7 +231,8 @@
     - [Java基础：流程控制语句，和算法应用](https://mp.weixin.qq.com/s/K7VqhbOJ7nMrFtfQgUKY0Q)
     - [Java基础：日期与时间API用法详解](https://mp.weixin.qq.com/s/6faAo0ld65pnWuJKE2Ccsg)
     - [Java基础：函数式编程概念和应用](https://mp.weixin.qq.com/s/UK_wgBw1raaoGDSaxMyPqg)
-
+    - [Java容器：基于源码分析List集合体系](https://mp.weixin.qq.com/s/oFkRObszfe3Bjd5OGdO31A)
+    
 - 多线程并发
 
     - [并发基础：线程的创建方式，状态周期管理](https://mp.weixin.qq.com/s/h0zuh364It-fDtQyYdzIwA)
