@@ -58,6 +58,7 @@
     - [SpringBoot2 整合Ehcache组件，轻量级缓存管理](https://mp.weixin.qq.com/s/4DxEMZURjRyszzCuhI9SGw)
     - [SpringBoot2 集成日志，复杂业务下的自定义实现](https://mp.weixin.qq.com/s/Cnieu8n-wkTyGbUd0WxG6g)
     - [SpringBoot2 整合OAuth2组件，模拟第三方授权访问](https://mp.weixin.qq.com/s/lNo-hchm1GHabq-9I-OBDw)
+    - [SpringBoot2 集成测试组件，七种测试手段对比](https://mp.weixin.qq.com/s/D1qYT7mpHOkn0WemLiQ2Uw)
 
 - SpringCloud组件
 
