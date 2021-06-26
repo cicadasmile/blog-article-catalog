@@ -16,6 +16,10 @@
     - [Java基础：函数式编程概念和应用](https://mp.weixin.qq.com/s/UK_wgBw1raaoGDSaxMyPqg)
     - [Java容器：基于源码分析List集合体系](https://mp.weixin.qq.com/s/oFkRObszfe3Bjd5OGdO31A)
     - [Java容器：基于源码分析Map集合体系](https://mp.weixin.qq.com/s/3jiwsnCk5YodV561-e2Tsw)
+
+- JavaSE进阶
+    
+    - [Java进阶：泛型机制与反射原理](https://mp.weixin.qq.com/s/IspPCGXcrZ4Kbc2-qAyS5w)
     
 - 多线程并发
 
