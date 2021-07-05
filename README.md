@@ -241,6 +241,7 @@
 - JavaSE进阶
     
     - [Java进阶：泛型机制与反射原理](https://mp.weixin.qq.com/s/IspPCGXcrZ4Kbc2-qAyS5w)
+    - [Java进阶：Proxy动态代理机制详解](https://mp.weixin.qq.com/s/HFMlfC-ocGBXXgxYWKND9g)
 
 - 多线程并发
 
